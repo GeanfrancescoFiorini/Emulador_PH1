@@ -16,8 +16,12 @@ A execução do programa está comentada junto do mesmo dentro do arquivo Ph1.cp
 
 # Alunos:
 
-César Augusto. Matrícula: 178308
+César Augusto.
 
-Geanfrancesco Fiorini. Matrícula: 178313
+Matrícula: 178308.
+
+Geanfrancesco Fiorini.
+
+Matrícula: 178313..
 
 
