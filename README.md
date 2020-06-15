@@ -1,9 +1,9 @@
 # Emulador_PH1_C++
 
-# Emulador para: Arquitetura de computador PH1.
-# Disciplina: Arquitetura e Organização de Computadores I.
-# Universidade de Passo Fundo.
-# Professor: Prof. Me. Marcos Jose Brusso.
+Emulador para: Arquitetura de computador PH1.
+Disciplina: Arquitetura e Organização de Computadores I.
+Universidade de Passo Fundo.
+Professor: Prof. Me. Marcos Jose Brusso.
 
 # Sobre o trabalho:
 O trabalho foi feito em C++.
